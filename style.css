@@ -147,7 +147,7 @@ h3 {
 }
 .icon-container {
   display: flex;
-  gap: 30px;
+  gap: 45px;
 }
 .download-container {
   display: flex;
@@ -166,10 +166,14 @@ h3 {
   align-items: center;
   margin-top: 70px;
 }
+.group1 {
+  padding-left: 100px;
+}
 .icon-container h3 {
   padding: 44px 0 16px 0;
 }
 .icon-text {
+  width: 350px;
   font-size: 16px;
   line-height: 1.88;
   letter-spacing: 0.12px;
