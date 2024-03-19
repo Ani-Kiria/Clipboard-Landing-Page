@@ -199,3 +199,17 @@ footer div p {
   cursor: pointer;
   color: #26bba4;
 }
+.social-networks {
+  display: flex;
+  gap: 15px;
+  padding-top: 15px;
+}
+.facebook:hover path {
+  fill: #26bba4;
+}
+.twitter:hover path {
+  fill: #26bba4;
+}
+.instagram:hover path {
+  fill: #26bba4;
+}
