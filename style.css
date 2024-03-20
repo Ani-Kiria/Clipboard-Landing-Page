@@ -10,7 +10,7 @@ body {
   width: 106.1px;
   padding-top: 131px;
 }
-.first-container {
+.header-container {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -94,7 +94,7 @@ h2 {
   text-align: center;
   color: #9eabb2;
 }
-.second-container {
+.snippet-container {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -103,16 +103,14 @@ h2 {
   margin-top: 80px;
   transform: translate(-30px);
 }
-.third-container {
+.snippet-search {
   display: flex;
   flex-direction: column;
+  padding-left: 100px;
 }
 .main-containter {
   display: flex;
   align-items: center;
-}
-.third-container {
-  padding-left: 100px;
 }
 h3 {
   font-size: 24px;
